@@ -118,6 +118,12 @@ section {
 }
 
 @media only screen and (min-width: 1110px) {
+  .photo-cow {
+    margin: 0 0;
+  }
+}
+
+@media only screen and (min-width: 1110px) {
   .offer {
     width: 465px;
     text-align: left;
